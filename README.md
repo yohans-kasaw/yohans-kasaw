@@ -1,29 +1,32 @@
 # Hi, I'm Yohans 👋
 📍 **Ethiopia, Addis Ababa**  | 🤖 **Currently working at [Owlbox.ai](https://www.owlbox.ai/)**
 
-## OwlBox.ai — https://www.owlbox.ai/
-An AI-native network video recorder that lets users talk to their cameras in natural language. Ask business intelligence questions about footage, request custom event-based video clips (e.g., “track the coyote that appeared last night between 4-5 AM as a vertical video”), set up recurring intelligent extractions, or delegate editing tasks to AI agents. It goes far beyond traditional security NVRs by turning passive cameras into active, queryable intelligence sources.
+#### Currently working at OwlBox.ai — https://www.owlbox.ai/
+> owlbox.ai is AI-native network video recorder that lets users talk to their cameras in natural language. Ask business intelligence questions about footage, request custom event-based video clips (e.g., “track the coyote that appeared last night between 4-5 AM as a vertical video”), set up recurring intelligent extractions, or delegate editing tasks to AI agents. It goes far beyond traditional security NVRs by turning passive cameras into active, queryable intelligence sources.
 
-### 🛠️ Tech Stack 
+### Tech Stack 
 
-#### 🧑‍💻 Programming & Scripting
+##### Programming Languages 
+Python, JavaScript, TypeScript, Go (Golang), Bash/Shell
 
 ![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,go,bash)
-- Python, JavaScript, TypeScript, Go (Golang), **Scripting:** Bash/Shell
 
-#### 🎨 Frontend Development
+##### Frontend 
+React, Next.js, Vue.js, Nuxt.js, Vite, Tailwind, HTML5, CSS3, Bootstrap, Figma
 
 ![Frontend Stack](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,vite,tailwind,html,css,bootstrap,figma)
-- React, Next.js, Vue.js, Nuxt.js, Vite, Tailwind, HTML5, CSS3, Bootstrap, Figma
+##### DevOps 
+Docker AWS (Amazon Web Services), GCP (Google Cloud Platform), Nginx, Linux
 
-
-#### 🚀 DevOps & Infrastructure
 ![DevOps Stack](https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux)
-- Docker AWS (Amazon Web Services), GCP (Google Cloud Platform), Nginx, Linux (Arch)
 
-## 🧰 Tools & Specialized Libraries
-![Developer Tools](https://skillicons.dev/icons?i=arch,neovim,selenium,opencv)
-- Arch, Neovim, Selenium, OpenCV
+##### My Workflow
+Arch Linux, Hyprland, Tmux, Neovim
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arch,neovim" />
+  <img src="https://img.shields.io/badge/-tmux-000?style=for-the-badge&logo=tmux&logoColor=1BB91F" height="48" />
+  <img src="https://img.shields.io/badge/-kitty-000?style=for-the-badge&logo=kitty&logoColor=white" height="48" />
+</p>
 
 
 ## Connect
@@ -57,15 +60,14 @@ Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yohans-kasaw&theme=darcula&exclude_days=Sun%2CSat&card_width=700&hide_border=true)](https://git.io/streak-stats)
 ![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yohans-kasaw&theme=darcula)
 ![langues](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yohans-kasaw&theme=darcula) 
-![Commit Chart](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yohans-kasaw&theme=darcula) 
 ![My GitHub Contribution](game.gif)
 
-### LeetCode Stats
-<p>
-  <a href="https://leetcode.com/yohansHailu/">
-    <img src="https://leetcard.jacoblin.cool/yohansHailu?theme=dark&font=Ubuntu%20Mono&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>
+<!-- ### LeetCode Stats -->
+<!-- <p> -->
+<!--   <a href="https://leetcode.com/yohansHailu/"> -->
+<!--     <img src="https://leetcard.jacoblin.cool/yohansHailu?theme=dark&font=Ubuntu%20Mono&ext=contest" alt="LeetCode Stats" /> -->
+<!--   </a> -->
+<!-- </p> -->
 
 ### Philosophy
 > "The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind." - Friedrich Nietzsche
@@ -81,3 +83,6 @@ Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohans-kasaw&label=Profile%20views&color=0e75b6&style=flat" alt="yohans-kasaw" /> </p>
+
+#### Activities of past one month
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yohans-kasaw&bg_color=000000&color=26a269&line=c64600&point=c64600&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
