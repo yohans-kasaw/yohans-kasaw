@@ -22,5 +22,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
           # write-dataurl-to: 'README.md'   # for dataurl generation.
-          strategy: 'random'
-          fps: 80
+          strategy: 'row'
+          fps: 160
