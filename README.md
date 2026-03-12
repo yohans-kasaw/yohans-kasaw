@@ -35,7 +35,7 @@ Arch Linux, Hyprland, Tmux, Neovim
 - [GitHub](https://github.com/yohans-kasaw)
 - [Email](yohanshailukasaw@gmail.com)
 
-## My Projects
+### My Projects
 
 📈 **[meme-trade](https://github.com/yohans-kasaw/meme-trade)**
 High-speed, multi-view trading terminal for meme coins, offering real-time market data and security audits.
@@ -55,7 +55,17 @@ Modern, full-stack social discovery and dating app with a Go backend and smooth 
 🤖 **[CodeDueProcess](https://github.com/yohans-kasaw/CodeDueProcess)**
 Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and govern AI-generated codebases.
 
-## GitHub Activity
+### Achievements & Recognitions
+#### 🏆 1st Place | A2SV Champions League (ACL) 2023
+A month-long elite coding competition held during the Generative AI for Africa Hackathon.
+> - Event: A2SV Generative AI for Africa Hackathon
+> - Award: 1st Prize / Gold Medalist
+> - Focus: Advanced Software Development & Generative AI
+> - The Winning Build: Developed an AI-driven learning platform specifically designed for children with cognitive challenges. Recognizing that traditional text-heavy interfaces can be a barrier, I leveraged Generative AI to create a heavily visual and sound-based experience. 
+
+[View Official Announcement on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7131236120503177216/)
+
+### GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yohans-kasaw&theme=darcula&exclude_days=Sun%2CSat&card_width=700&hide_border=true)](https://git.io/streak-stats)
 ![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yohans-kasaw&theme=darcula)
