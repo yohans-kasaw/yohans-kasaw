@@ -32,27 +32,27 @@ Arch Linux, Hyprland, Tmux, Neovim
 ## Connect
 - [Resume](https://drive.google.com/file/d/1KghQ8w7bBHmpMZoUcC6zvDFLbH1odHH7/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/yohans-kasaw)
-- [GitHub](https://github.com/yohansh/yohans-kasaw)
+- [GitHub](https://github.com/yohans-kasaw)
 - [Email](yohanshailukasaw@gmail.com)
 
 ## My Projects
 
-📈 **[meme-trade](https://github.com/yohansh/meme-trade)**
+📈 **[meme-trade](https://github.com/yohans-kasaw/meme-trade)**
 High-speed, multi-view trading terminal for meme coins, offering real-time market data and security audits.
 
-🎶 **[music_typing](https://github.com/yohansh/music_typing)**
+🎶 **[music_typing](https://github.com/yohans-kasaw/music_typing)**
 Engaging web app to improve typing speed and accuracy using favorite song lyrics.
 
-📖 **[focus_read](https://github.com/yohansh/focus_read)**
+📖 **[focus_read](https://github.com/yohans-kasaw/focus_read)**
 Terminal-based speed reading tool for EPUBs and text, built with Go for distraction-free content consumption.
 
-📦 **[supplySight](https://github.com/yohansh/supplySight)**
+📦 **[supplySight](https://github.com/yohans-kasaw/supplySight)**
 Smart Warehouse Management app to monitor inventory and demand across multiple locations with visual trends.
 
-❤️ **[libam](https://github.com/yohansh/libam)**
-Modern, full-stack social discovery and dating app with a Go backend and reactive frontend.
+❤️ **[libam](https://github.com/yohans-kasaw/libam)**
+Modern, full-stack social discovery and dating app with a Go backend and smooth frontend.
 
-🤖 **[CodeDueProcess](https://github.com/yohansh/CodeDueProcess)**
+🤖 **[CodeDueProcess](https://github.com/yohans-kasaw/CodeDueProcess)**
 Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and govern AI-generated codebases.
 
 ## GitHub Activity
@@ -72,15 +72,11 @@ Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and
 ### Philosophy
 > "The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind." - Friedrich Nietzsche
 
-<details>
-<summary>Random Facts</summary>
-
-- Switched to Dvorak keyboard layout 3 years ago.
-- Quit all social media a year ago.
-- Enthusiast of Arch Linux, Hyprland, and Neovim.
-- Skateboarding enthusiast (when not coding).
-
-</details>
+### Random Facts
+  - Switched to Dvorak keyboard layout 3 years ago.
+  - Quit all social media a year ago.
+  - Enthusiast of Arch Linux, Hyprland, and Neovim.
+  - Skateboarding enthusiast (when not coding).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohans-kasaw&label=Profile%20views&color=0e75b6&style=flat" alt="yohans-kasaw" /> </p>
 
