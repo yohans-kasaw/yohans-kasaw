@@ -54,7 +54,10 @@ Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and
 
 ## GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yohans-kasaw&theme=dark&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yohans-kasaw&theme=darcula&exclude_days=Sun%2CSat&card_width=700&hide_border=true)](https://git.io/streak-stats)
+![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yohans-kasaw&theme=darcula)
+![langues](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yohans-kasaw&theme=darcula) 
+![Commit Chart](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yohans-kasaw&theme=darcula) 
 ![My GitHub Contribution](game.gif)
 
 ### LeetCode Stats
