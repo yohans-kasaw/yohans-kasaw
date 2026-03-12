@@ -1,10 +1,19 @@
 # Hi, I'm Yohans 👋
+---
 📍 **Ethiopia, Addis Ababa**  | 🤖 **Currently working at [Owlbox.ai](https://www.owlbox.ai/)**
 
 #### Currently working at OwlBox.ai — https://www.owlbox.ai/
+---
 > owlbox.ai is AI-native network video recorder that lets users talk to their cameras in natural language. Ask business intelligence questions about footage, request custom event-based video clips (e.g., “track the coyote that appeared last night between 4-5 AM as a vertical video”), set up recurring intelligent extractions, or delegate editing tasks to AI agents. It goes far beyond traditional security NVRs by turning passive cameras into active, queryable intelligence sources.
 
+## Contact
+- [Resume](https://drive.google.com/file/d/1KghQ8w7bBHmpMZoUcC6zvDFLbH1odHH7/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/yohans-kasaw)
+- [GitHub](https://github.com/yohans-kasaw)
+- [Email](yohanshailukasaw@gmail.com)
+
 ### Tech Stack 
+---
 
 ##### Programming Languages 
 Python, JavaScript, TypeScript, Go (Golang), Bash/Shell
@@ -29,14 +38,9 @@ Arch Linux, Hyprland, Tmux, Neovim
 </p>
 
 
-## Connect
-- [Resume](https://drive.google.com/file/d/1KghQ8w7bBHmpMZoUcC6zvDFLbH1odHH7/view?usp=sharing)
-- [LinkedIn](https://www.linkedin.com/in/yohans-kasaw)
-- [GitHub](https://github.com/yohans-kasaw)
-- [Email](yohanshailukasaw@gmail.com)
 
 ### My Projects
-
+---
 📈 **[meme-trade](https://github.com/yohans-kasaw/meme-trade)**
 High-speed, multi-view trading terminal for meme coins, offering real-time market data and security audits.
 
@@ -56,6 +60,7 @@ Modern, full-stack social discovery and dating app with a Go backend and smooth 
 Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and govern AI-generated codebases.
 
 ### Achievements & Recognitions
+---
 #### 🏆 1st Place | A2SV Champions League (ACL) 2023
 A month-long elite coding competition held during the Generative AI for Africa Hackathon.
 > - Event: A2SV Generative AI for Africa Hackathon
@@ -66,6 +71,7 @@ A month-long elite coding competition held during the Generative AI for Africa H
 [View Official Announcement on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7131236120503177216/)
 
 ### GitHub Activity
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yohans-kasaw&theme=darcula&exclude_days=Sun%2CSat&card_width=700&hide_border=true)](https://git.io/streak-stats)
 ![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yohans-kasaw&theme=darcula)
@@ -80,15 +86,18 @@ A month-long elite coding competition held during the Generative AI for Africa H
 <!-- </p> -->
 
 ### Philosophy
+---
 > "The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind." - Friedrich Nietzsche
 
 ### Random Facts
-  - Switched to Dvorak keyboard layout 3 years ago.
-  - Quit all social media a year ago.
-  - Enthusiast of Arch Linux, Hyprland, and Neovim.
+---
   - Skateboarding enthusiast (when not coding).
+  - Quit all social media a year ago.
+  - Switched to Dvorak keyboard layout 3 years ago.
+  - Been Reading one book a month since beginning last year.
+  - Enthusiast of Arch Linux, Hyprland, and Neovim.
+
+##### Activities of past one month
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yohans-kasaw&bg_color=000000&color=26a269&line=c64600&point=c64600&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohans-kasaw&label=Profile%20views&color=0e75b6&style=flat" alt="yohans-kasaw" /> </p>
-
-#### Activities of past one month
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yohans-kasaw&bg_color=000000&color=26a269&line=c64600&point=c64600&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
