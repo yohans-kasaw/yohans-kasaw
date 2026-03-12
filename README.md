@@ -7,10 +7,10 @@
 > owlbox.ai is AI-native network video recorder that lets users talk to their cameras in natural language. Ask business intelligence questions about footage, request custom event-based video clips (e.g., “track the coyote that appeared last night between 4-5 AM as a vertical video”), set up recurring intelligent extractions, or delegate editing tasks to AI agents. It goes far beyond traditional security NVRs by turning passive cameras into active, queryable intelligence sources.
 
 ## Contact
-- [Resume](https://drive.google.com/file/d/1KghQ8w7bBHmpMZoUcC6zvDFLbH1odHH7/view?usp=sharing)
-- [LinkedIn](https://www.linkedin.com/in/yohans-kasaw)
-- [GitHub](https://github.com/yohans-kasaw)
-- [Email](yohanshailukasaw@gmail.com)
+- [Resume: Google drive link](https://drive.google.com/file/d/1KghQ8w7bBHmpMZoUcC6zvDFLbH1odHH7/view?usp=sharing)
+- [LinkedIn: https://www.linkedin.com/in/yohans-kasaw](https://www.linkedin.com/in/yohans-kasaw)
+- [GitHub: https://github.com/yohans-kasaw](https://github.com/yohans-kasaw)
+- [Email: yohanshailukasaw@gmail.com](mailto:yohanshailukasaw@gmail.com)
 
 ### Tech Stack 
 ---
