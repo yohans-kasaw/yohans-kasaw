@@ -54,10 +54,8 @@ Autonomous multi-agent swarm acting as a digital courtroom to audit, debate, and
 
 ## GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yohans-kasaw&theme=dark&exclude_days=Sun%2CSat&card_width=650)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yohans-kasaw&theme=dark&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)
 ![My GitHub Contribution](game.gif)
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/yohans-kasaw)
 
 ### LeetCode Stats
 <p>
